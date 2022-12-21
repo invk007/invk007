@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Machine Learning and Music
 - 🌱 I’m currently learning Kafka
 
-![image](https://www.codewars.com/users/invk007/badges/small)
+![image](https://www.codewars.com/users/invk007/badges/large)
 
 <!---
 invk007/invk007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
