@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ilya
-- 👀 I’m interested in Python, Machine Learning and Music
-- 🌱 I’m currently learning Kafka
+- 👀 I’m interested in Python, Solving Riddles, Music and Computer Games
+- 🌱 I’m currently learning different things
 
 ![image](https://www.codewars.com/users/invk007/badges/large)
 
