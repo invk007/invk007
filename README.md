@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ilya
 - 👀 I’m interested in Python, Solving Riddles, Music and Computer Games
-- 🌱 I’m currently learning different things
+- 🌱 I’m currently preparing for AWS certification
 
 ![image](https://www.codewars.com/users/invk007/badges/large)
 
